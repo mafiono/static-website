@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /*?
+Disallow: /profile*
+Disallow: /users/*
+Disallow: /support*
+Disallow: /component/*
+Sitemap: https://casino.n1bet.com/sitemap.xml
+Sitemap: https://casino.n1bet.com/all_gamelists_sitemap.xml
+Sitemap: https://casino.n1bet.com/gamelist_sitemap.xml
+Sitemap: https://casino.n1bet.com/de/gamelist_sitemap.xml
+Sitemap: https://casino.n1bet.com/fi/gamelist_sitemap.xml
+Sitemap: https://casino.n1bet.com/ru/gamelist_sitemap.xml
+Sitemap: https://casino.n1bet.com/no/gamelist_sitemap.xml
+Sitemap: https://casino.n1bet.com/pl/gamelist_sitemap.xml
+Sitemap: https://casino.n1bet.com/en-CA/gamelist_sitemap.xml
+Sitemap: https://casino.n1bet.com/fr/gamelist_sitemap.xml
+Sitemap: https://casino.n1bet.com/pt-BR/gamelist_sitemap.xml
